@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubProjemiz.Plugins", "GithubProjemiz.Plugins.csproj", "{297C3E4E-362D-08D5-34D2-66AAF1C8794F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubProjemiz", "GithubProjemiz.csproj", "{96974FD4-1805-294F-94ED-014C8A693C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubProjemiz.Editor", "GithubProjemiz.Editor.csproj", "{444BFDAF-CCB2-9608-49F4-A159ED7D8E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297C3E4E-362D-08D5-34D2-66AAF1C8794F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297C3E4E-362D-08D5-34D2-66AAF1C8794F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297C3E4E-362D-08D5-34D2-66AAF1C8794F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297C3E4E-362D-08D5-34D2-66AAF1C8794F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96974FD4-1805-294F-94ED-014C8A693C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96974FD4-1805-294F-94ED-014C8A693C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96974FD4-1805-294F-94ED-014C8A693C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96974FD4-1805-294F-94ED-014C8A693C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444BFDAF-CCB2-9608-49F4-A159ED7D8E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444BFDAF-CCB2-9608-49F4-A159ED7D8E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444BFDAF-CCB2-9608-49F4-A159ED7D8E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444BFDAF-CCB2-9608-49F4-A159ED7D8E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
